@@ -1,3 +1,9 @@
+<<com 
+      Name: Joshil S Abraham
+      Date: 05/02/2025
+      Description: Script that prints Natural Numbers upto 10 using while and for loops.
+com
+
 echo "Using while loop..."
 j=1
 while [ $j -le 10 ]
