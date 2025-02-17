@@ -9,6 +9,6 @@ factorial=1
 while [$number -gt 1]
 do         
 	factorial = $((factorial*number))
-	num=$((num-1))
+	number=$((number-1))
 done    
 echo "The Factorial of $number is $factorial"
