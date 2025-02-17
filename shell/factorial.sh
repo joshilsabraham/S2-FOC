@@ -1,6 +1,6 @@
 <<com 
        Name: Joshil S Abraham
-       Date: 05/02/2025
+       Date: 17/02/2025
        Description: Script that calculates the Factorial of a given number. 
 com
 
