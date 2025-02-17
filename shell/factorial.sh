@@ -5,7 +5,7 @@
 com
 
 read -p "Enter a Number: " number
-fact=1
+factorial=1
 while [$number -gt 1]
 do         
 	factorial = $((factorial*number))
