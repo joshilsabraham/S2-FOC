@@ -13,5 +13,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 document.getElementById('contact-form').addEventListener('submit', function (e) {
   e.preventDefault();
   alert('Message sent! Thank you for reaching out.');
-  // You can integrate an email service here for actual submission.
 });
